@@ -1,0 +1,3 @@
+[workspace]
+members = ["acronimo", "ano_bissexto"]
+resolver = "2"
